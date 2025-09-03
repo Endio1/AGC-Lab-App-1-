@@ -1,8 +1,15 @@
-streamlit>=1.34.0
-pandas>=2.0.0
-numpy>=1.24.0
-scikit-learn>=1.3.0
-joblib>=1.3.0
-openpyxl>=3.1.2
-xlrd>=2.0.1
-#pip install -r requirements.txt
+streamlit
+pandas
+numpy
+plotly
+openpyxl
+xlrd
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+torch
+sqlalchemy
+mysql-connector-python
+
+
