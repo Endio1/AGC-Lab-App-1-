@@ -1,6 +1,6 @@
 import streamlit as st
-from .login_app import login_ui
-from .dashboard_core import dashboard_main
+from login_app import login_ui
+from dashboard_core import dashboard_main
 
 st.set_page_config(page_title="AGC Dashboard", layout="wide")
 
@@ -17,3 +17,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
